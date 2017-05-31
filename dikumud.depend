@@ -1,0 +1,406 @@
+# depslib dependency file v1.0
+1496121763 source:d:\dikumud\act.comm.c
+	<stdio.h>
+	<string.h>
+	"structs.h"
+	"utils.h"
+	"comm.h"
+	"interpreter.h"
+	"handler.h"
+	"db.h"
+	"spells.h"
+
+1496121763 d:\dikumud\structs.h
+	<sys/types.h>
+
+1496133633 d:\dikumud\utils.h
+
+1496131903 d:\dikumud\comm.h
+
+1496134981 d:\dikumud\interpreter.h
+
+1496121763 d:\dikumud\handler.h
+
+1496121763 d:\dikumud\db.h
+
+1496121763 d:\dikumud\spells.h
+
+1496121763 source:d:\dikumud\act.informative.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"structs.h"
+	"utils.h"
+	"comm.h"
+	"interpreter.h"
+	"handler.h"
+	"db.h"
+	"spells.h"
+	"limits.h"
+
+1496121763 d:\dikumud\limits.h
+
+1496121763 source:d:\dikumud\act.movement.c
+	<stdio.h>
+	<string.h>
+	"structs.h"
+	"utils.h"
+	"comm.h"
+	"interpreter.h"
+	"handler.h"
+	"db.h"
+	"spells.h"
+
+1496124934 source:d:\dikumud\act.obj1.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"structs.h"
+	"utils.h"
+	"comm.h"
+	"interpreter.h"
+	"handler.h"
+	"db.h"
+	"spells.h"
+
+1496125066 source:d:\dikumud\act.obj2.c
+	<stdio.h>
+	<string.h>
+	<assert.h>
+	"structs.h"
+	"utils.h"
+	"comm.h"
+	"interpreter.h"
+	"handler.h"
+	"db.h"
+	"spells.h"
+
+1496121763 source:d:\dikumud\act.offensive.c
+	<stdio.h>
+	<string.h>
+	"structs.h"
+	"utils.h"
+	"comm.h"
+	"interpreter.h"
+	"handler.h"
+	"db.h"
+	"spells.h"
+	"limits.h"
+
+1496121763 source:d:\dikumud\act.other.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"structs.h"
+	"utils.h"
+	"comm.h"
+	"interpreter.h"
+	"handler.h"
+	"db.h"
+	"spells.h"
+
+1496121763 source:d:\dikumud\act.social.c
+	<stdio.h>
+	<string.h>
+	"structs.h"
+	"utils.h"
+	"comm.h"
+	"interpreter.h"
+	"handler.h"
+	"db.h"
+	"spells.h"
+
+1496130994 source:d:\dikumud\act.wizard.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"structs.h"
+	"utils.h"
+	"comm.h"
+	"interpreter.h"
+	"handler.h"
+	"db.h"
+	"spells.h"
+	"limits.h"
+
+1496121763 source:d:\dikumud\board.c
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+	"utils.h"
+	"structs.h"
+	"comm.h"
+
+1496134784 source:d:\dikumud\changes.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"structs.h"
+	"utils.h"
+	"comm.h"
+	"interpreter.h"
+	"handler.h"
+	"db.h"
+	"spells.h"
+	"limits.h"
+
+1496133987 source:d:\dikumud\comm.c
+	<errno.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/wait.h>
+	<netinet/in.h>
+	<netdb.h>
+	<string.h>
+	<sys/time.h>
+	<fcntl.h>
+	<signal.h>
+	"structs.h"
+	"utils.h"
+	"comm.h"
+	"interpreter.h"
+	"handler.h"
+	"db.h"
+
+1496121763 source:d:\dikumud\constants.c
+	"structs.h"
+	"limits.h"
+
+1496132611 source:d:\dikumud\db.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"structs.h"
+	"utils.h"
+	"db.h"
+	"comm.h"
+	"handler.h"
+	"limits.h"
+
+1496125285 source:d:\dikumud\delplay.c
+	<stdio.h>
+	<ctype.h>
+	"structs.h"
+
+1496125305 source:d:\dikumud\fight.c
+	<stdio.h>
+	<string.h>
+	<assert.h>
+	"structs.h"
+	"utils.h"
+	"comm.h"
+	"handler.h"
+	"interpreter.h"
+	"db.h"
+	"spells.h"
+
+1496125529 source:d:\dikumud\handler.c
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+	<assert.h>
+	"structs.h"
+	"utils.h"
+	"comm.h"
+	"db.h"
+	"handler.h"
+
+1496125550 source:d:\dikumud\insert_any.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1496131334 source:d:\dikumud\interpreter-quinn.c
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+	<string.h>
+	"structs.h"
+	"comm.h"
+	"interpreter.h"
+	"db.h"
+	"utils.h"
+	"limits.h"
+
+1496134840 source:d:\dikumud\interpreter.c
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+	"structs.h"
+	"comm.h"
+	"interpreter.h"
+	"db.h"
+	"utils.h"
+	"limits.h"
+
+1496121763 source:d:\dikumud\limits.c
+	<stdio.h>
+	<assert.h>
+	"structs.h"
+	"limits.h"
+	"utils.h"
+	"spells.h"
+	"comm.h"
+
+1496121763 source:d:\dikumud\list.c
+	<stdio.h>
+	<time.h>
+	"structs.h"
+
+1496125983 source:d:\dikumud\magic.c
+	<stdio.h>
+	<assert.h>
+	"structs.h"
+	"utils.h"
+	"comm.h"
+	"spells.h"
+	"handler.h"
+	"limits.h"
+	"interpreter.h"
+
+1496121763 source:d:\dikumud\mail.c
+	"maildef.h"
+	<stdio.h>
+	<time.h>
+
+1496121763 d:\dikumud\maildef.h
+
+1446638944 source:d:\dikumud\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1496121763 source:d:\dikumud\mar_fiz_maz.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"structs.h"
+	"utils.h"
+	"comm.h"
+	"interpreter.h"
+	"handler.h"
+	"db.h"
+	"spells.h"
+	"limits.h"
+
+1496121763 source:d:\dikumud\mobact.c
+	<stdio.h>
+	"utils.h"
+	"structs.h"
+	"db.h"
+	"comm.h"
+
+1496133938 source:d:\dikumud\modify.c
+	<signal.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"structs.h"
+	"utils.h"
+	"interpreter.h"
+	"handler.h"
+	"db.h"
+	"comm.h"
+
+1496121763 source:d:\dikumud\reception.c
+	<stdio.h>
+	<sys/time.h>
+	"structs.h"
+	"comm.h"
+	"handler.h"
+	"db.h"
+	"interpreter.h"
+	"utils.h"
+	"spells.h"
+
+1496121763 source:d:\dikumud\repairgold.c
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"structs.h"
+
+1496121763 source:d:\dikumud\shop.c
+	<stdio.h>
+	<string.h>
+	"structs.h"
+	"comm.h"
+	"handler.h"
+	"db.h"
+	"interpreter.h"
+	"utils.h"
+
+1496135572 source:d:\dikumud\sign.c
+	<errno.h>
+	<stdio.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/wait.h>
+	<netinet/in.h>
+	<netdb.h>
+	<sys/time.h>
+	<fcntl.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1496130996 source:d:\dikumud\signals.c
+	<signal.h>
+	<stdio.h>
+	<sys/time.h>
+	"utils.h"
+
+1496121763 source:d:\dikumud\spec_assign.c
+	<stdio.h>
+	"structs.h"
+	"db.h"
+
+1496126061 source:d:\dikumud\spec_procs.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"structs.h"
+	"utils.h"
+	"comm.h"
+	"interpreter.h"
+	"handler.h"
+	"db.h"
+	"spells.h"
+	"limits.h"
+
+1496121763 source:d:\dikumud\spell_parser.c
+	<stdio.h>
+	<assert.h>
+	"structs.h"
+	"utils.h"
+	"comm.h"
+	"db.h"
+	"interpreter.h"
+	"spells.h"
+	"handler.h"
+
+1496121763 source:d:\dikumud\spells1.c
+	<stdio.h>
+	"structs.h"
+	"utils.h"
+	"comm.h"
+	"db.h"
+	"interpreter.h"
+	"spells.h"
+	"handler.h"
+
+1496121763 source:d:\dikumud\spells2.c
+	<stdio.h>
+	"structs.h"
+	"utils.h"
+	"comm.h"
+	"db.h"
+	"interpreter.h"
+	"spells.h"
+	"handler.h"
+

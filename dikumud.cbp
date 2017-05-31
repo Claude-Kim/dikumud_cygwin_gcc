@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="dikumud" />
+		<Option pch_mode="2" />
+		<Option compiler="cygwin" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/dikumud" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/dikumud" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="cygwin" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Makefile" />
+		<Unit filename="README" />
+		<Unit filename="act.comm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="act.comm.o" />
+		<Unit filename="act.informative.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="act.informative.o" />
+		<Unit filename="act.movement.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="act.movement.o" />
+		<Unit filename="act.obj1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="act.obj1.o" />
+		<Unit filename="act.obj2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="act.obj2.o" />
+		<Unit filename="act.offensive.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="act.offensive.o" />
+		<Unit filename="act.other.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="act.other.o" />
+		<Unit filename="act.social.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="act.social.o" />
+		<Unit filename="act.wizard.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="act.wizard.o" />
+		<Unit filename="board.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="changes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="comm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="comm.h" />
+		<Unit filename="comm.o" />
+		<Unit filename="constants.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="db.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="db.h" />
+		<Unit filename="db.o" />
+		<Unit filename="delplay.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fight.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fight.o" />
+		<Unit filename="handler.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="handler.h" />
+		<Unit filename="handler.o" />
+		<Unit filename="insert_any.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="interpreter-quinn.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="interpreter.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="interpreter.h" />
+		<Unit filename="interpreter.o" />
+		<Unit filename="lib/README" />
+		<Unit filename="lib/actions" />
+		<Unit filename="lib/board.messages" />
+		<Unit filename="lib/credits" />
+		<Unit filename="lib/help" />
+		<Unit filename="lib/help_table" />
+		<Unit filename="lib/info" />
+		<Unit filename="lib/messages" />
+		<Unit filename="lib/motd" />
+		<Unit filename="lib/news" />
+		<Unit filename="lib/pcobjs.obj" />
+		<Unit filename="lib/players" />
+		<Unit filename="lib/poses" />
+		<Unit filename="lib/tinyworld.mob" />
+		<Unit filename="lib/tinyworld.obj" />
+		<Unit filename="lib/tinyworld.shp" />
+		<Unit filename="lib/tinyworld.wld" />
+		<Unit filename="lib/tinyworld.zon" />
+		<Unit filename="lib/wizlist" />
+		<Unit filename="limits.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="limits.h" />
+		<Unit filename="limits.o" />
+		<Unit filename="list.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="magic.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mail.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="maildef.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mar_fiz_maz.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mobact.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mobact.o" />
+		<Unit filename="modify.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="nightrun" />
+		<Unit filename="obj/Debug/act.comm.o" />
+		<Unit filename="obj/Debug/act.informative.o" />
+		<Unit filename="obj/Debug/act.movement.o" />
+		<Unit filename="obj/Debug/act.obj1.o" />
+		<Unit filename="obj/Debug/act.obj2.o" />
+		<Unit filename="obj/Debug/act.offensive.o" />
+		<Unit filename="obj/Debug/act.other.o" />
+		<Unit filename="obj/Debug/act.social.o" />
+		<Unit filename="obj/Debug/act.wizard.o" />
+		<Unit filename="obj/Debug/board.o" />
+		<Unit filename="obj/Debug/changes.o" />
+		<Unit filename="obj/Debug/comm.o" />
+		<Unit filename="obj/Debug/constants.o" />
+		<Unit filename="obj/Debug/db.o" />
+		<Unit filename="obj/Debug/delplay.o" />
+		<Unit filename="obj/Debug/fight.o" />
+		<Unit filename="obj/Debug/handler.o" />
+		<Unit filename="obj/Debug/insert_any.o" />
+		<Unit filename="obj/Debug/interpreter-quinn.o" />
+		<Unit filename="obj/Debug/interpreter.o" />
+		<Unit filename="obj/Debug/limits.o" />
+		<Unit filename="obj/Debug/list.o" />
+		<Unit filename="obj/Debug/magic.o" />
+		<Unit filename="obj/Debug/mail.o" />
+		<Unit filename="obj/Debug/mar_fiz_maz.o" />
+		<Unit filename="obj/Debug/mobact.o" />
+		<Unit filename="opstart" />
+		<Unit filename="reception.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="repairgold.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="shop.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="shop.o" />
+		<Unit filename="sign.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="signals.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="spec_assign.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="spec_assign.o" />
+		<Unit filename="spec_procs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="spell_parser.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="spells.h" />
+		<Unit filename="spells1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="spells2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="structs.h" />
+		<Unit filename="syntax_check.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="update.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="utility.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="utility.o" />
+		<Unit filename="utils.h" />
+		<Unit filename="weather.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
